@@ -1355,7 +1355,7 @@ a {
 .cid-uZsvx2zIqz {
   padding-top: 8rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-color: #edefeb;
 }
 .cid-uZsvx2zIqz .mbr-fallback-image.disabled {
   display: none;
@@ -1391,11 +1391,11 @@ a {
   }
 }
 .cid-uZsvx2zIqz .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uZsvx2zIqz .mbr-text,
 .cid-uZsvx2zIqz .mbr-section-btn {
-  color: #f7f7f7;
+  color: #000000;
 }
 .cid-v1792b0HAD {
   background-color: #ffffff;
@@ -1409,7 +1409,7 @@ a {
 .cid-v178YhCxdN {
   padding-top: 4rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-color: #edefeb;
 }
 .cid-v178YhCxdN .item-wrapper {
   background: #ffffff;
@@ -1432,10 +1432,10 @@ a {
 .cid-v178YhCxdN .mbr-section-maintext,
 .cid-v178YhCxdN .btn-move {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-v178YhCxdN .mbr-section-maintitle {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-v17hhFkH6Q {
   padding-top: 2rem;
@@ -1445,7 +1445,7 @@ a {
 .cid-v17jwEGDsG {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-color: #edefeb;
 }
 .cid-v17jwEGDsG .mbr-fallback-image.disabled {
   display: none;
@@ -1517,12 +1517,12 @@ a {
 }
 .cid-v17jwEGDsG .mbr-section-subtitle,
 .cid-v17jwEGDsG .main-button {
-  color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 .cid-v17jwEGDsG .mbr-section-title {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-v1fH2cIB1W {
   padding-top: 2rem;
@@ -1549,7 +1549,7 @@ a {
 .cid-v17l63gJSA {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-color: #ffffff;
 }
 .cid-v17l63gJSA .item-mb {
   margin-bottom: 2rem;
@@ -1577,7 +1577,7 @@ a {
 }
 .cid-v17l63gJSA .item-content {
   padding: 2.25rem 2.25rem 0;
-  background: #ffffff;
+  background: #edefeb;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .cid-v17l63gJSA .item-content {
@@ -1593,7 +1593,7 @@ a {
   border-radius: 2rem;
   overflow: hidden;
   margin-bottom: 2rem;
-  background: #ffffff;
+  background: #edefeb;
   padding: 0rem;
   height: 100%;
   display: flex;
